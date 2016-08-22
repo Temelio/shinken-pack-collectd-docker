@@ -1,0 +1,6 @@
+{
+    "name": "collectd-mongodb",
+    "description": "Checks to manage our MongoDB collectd checks",
+    "path": "collectd-mongodb",
+    "macros": {}
+}

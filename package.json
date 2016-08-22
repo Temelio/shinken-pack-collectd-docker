@@ -1,0 +1,25 @@
+{
+    "name": "collectd-docker",
+    "types": ["pack"],
+    "version": "0.1.0",
+    "homepage": "https://github.com/Temelio/shinken-pack-collectd-docker",
+    "author": "Alexandre Chaussier",
+    "description": "Collectd Docker monitoring checks, using collectd-nagios plugin",
+    "contributors": [
+        {
+            "name": "Alexandre Chaussier",
+            "email": "alexandre.chaussier@temelio.com"
+        }
+    ],
+    "repository": "https://github.com/Temelio/shinken-pack-collectd-docker",
+   " keywords": [
+        "pack",
+        "collectd",
+        "docker"
+    ],
+   " dependencies": {
+        "collectd-base": ">=0.1.0",
+        "shinken": ">=2.4.3"
+    },
+    "license": "MIT"
+}
